@@ -1,5 +1,12 @@
-# design-team-administration
+## Roles and Responsibilities 
 
-This is a repository of all things that I leanred the hard way when I became a manager, which has nothing to with design. The idea is to put it out there in open so that it might help someone in need, like i needed onetime.
+#Junior Roles
+Practice own craft (Deliver whats assigned)
 
-From being responsible just for just my work craft to suddenly being responsibe for future of all the kids i had inherited or hired.
+
+#Mid-level Roles
+Own craft + Task delegation to JR and clear their doubts + Strategic product direction
+
+
+#Senior Roles
+Own Craft + Task delegation + Startegic product direction + Strategic org level design direction
